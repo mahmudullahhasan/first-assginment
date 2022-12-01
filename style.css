@@ -1,0 +1,143 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.top-banner {
+    background-image: url(images/donation14.webp);
+    /* background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 80.02%); */
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 400px;
+    color: black;
+
+}
+
+.header {}
+
+.link-btn {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+
+}
+
+/* part of donate */
+.donate-description {
+    text-align: center;
+}
+
+.donate-amount {
+    display: flex;
+    justify-content: center;
+
+}
+
+#donate-amount-bg {
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+}
+
+.donate-amount h3 {
+    margin-left: 22px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    ;
+
+}
+
+.others-amount a {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 16px 12px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.others-amount h4 {
+    color: #B3B3B3;
+}
+
+.border {
+    border: 1px solid #B3B3B3;
+    width: 665px;
+    /* margin-top: 5px; */
+    margin-left: 280px;
+    margin-bottom: 60px;
+
+}
+
+/* donate plan */
+.donate-container {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.donate-explain {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+
+}
+
+.donate-single-explain {
+    margin-left: 20px;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#donate-single-explain {
+    background: rgba(79, 157, 166, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+
+/* update area */
+.update-area {
+    text-align: center;
+}
+
+.input-btn {
+    background-color: antiquewhite;
+    padding: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.field {
+    padding: 8px;
+    width: 170px;
+    border: none;
+    border-radius: 5px;
+}
+
+.field-button {
+    background-color: #FF5959;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
+
+
+/* footer */
+footer {
+    background-color: #0B0D17;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin-top: 70px;
+}
+
+footer h2 {
+    color: #FF5959;
+    font-family: 'Lobster';
+    font-weight: 400;
+
+}
